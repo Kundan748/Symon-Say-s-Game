@@ -17,7 +17,7 @@ To get started with the "Simon Says" game, follow these steps:
 Ensure you have codeStudio 
 Clone the repository to your local machine.
 //command for clone repo...
-git clone https://github.com/Kundan748/simon-says-game.git
+git clone https://github.com/Kundan748/Simon-Say-s-Game.git
 
 Start live server
 
